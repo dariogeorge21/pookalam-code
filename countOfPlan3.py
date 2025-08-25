@@ -10,5 +10,5 @@ def count_characters_in_file(file_path):
         print(f"An error occurred: {e}")
 
 # Replace 'plan3 without.txt' with the actual path to your file
-file_path = 'plan3 without.txt'
+file_path = 'pookalam.txt'
 count_characters_in_file(file_path)

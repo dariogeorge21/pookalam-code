@@ -4,7 +4,7 @@
 unique_ascii_chars = []
 
 # File path
-file_path = "plan3 without.txt"
+file_path = "pookalam.txt"
 
 try:
     # Open the file in read mode
